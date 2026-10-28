@@ -1,0 +1,6 @@
+{
+  "name": "ICU SENSE — Smart ICU Alarm Correlation Dashboard",
+  "description": "Smart ICU alarm correlation, clinical telemetry triage, and infusion pump troubleshooting dashboard for intensive care units.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
